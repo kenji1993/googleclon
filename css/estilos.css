@@ -168,10 +168,11 @@ footer .footer-left {
 }
 
 footer .footer-right {
-    justify-content: right;
+    justify-content: flex-end;
 }
 
 footer ul li a {
     margin: 10px;
     color: #5f6368;
 }
+
